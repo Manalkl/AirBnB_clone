@@ -64,7 +64,7 @@
 }
 .max_guest, .number_rooms, .number_bathrooms {
 	width: 100px;
-} 
+}
 .max_guest {
 	background: url('../images/icon_group.png') no-repeat;
 	margin-top: 6px;
